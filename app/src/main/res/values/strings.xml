@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flowers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="contentdescription">image</string>
+    <string name="likes">Likes :</string>
+    <string name="views">Views :</string>
+    <string name="flowerpage">CLICK ON THIS TO FLOWER IMAGE PAGE</string>
+    <string name="add">ADD TO MYFLOWERS</string>
+    <string name="tandt">title and type:</string>
+    <string name="comment">No of comments:</string>
+    <string name="imageurl">image url:</string>
+    <string name="pageurl">Page URl</string>
+    <string name="flowers_title">Flowers</string>
+    <string name="myflowers_title">MyFlowers</string>
+</resources>
